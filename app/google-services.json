@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225303365739",
+    "firebase_url": "https://proyectoappvideojuegos-default-rtdb.firebaseio.com",
+    "project_id": "proyectoappvideojuegos",
+    "storage_bucket": "proyectoappvideojuegos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225303365739:android:0b19f706271c54b383892e",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_grupo3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvszEGLYIcbIPlkRGSBHenNO-xV1-sbQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
